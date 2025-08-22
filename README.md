@@ -26,42 +26,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugooae&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugooae&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-## 🔥 Racha de Contribuciones
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hugooae&theme=tokyonight" alt="hugooae" />
-</div>
-
-## 🏆 Trofeos de GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hugooae&theme=tokyonight&row=1&column=6" alt="hugooae" />
-</div>
-
-## 📈 Gráfico de Actividad
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hugooae&theme=tokyo-night&custom_title=Gráfico%20de%20Contribuciones%20de%20Hugo&hide_border=true" alt="Gráfico de actividad de Hugo">
-</div>
-
-## 👥 Mi Organización
-
-### 🏢 Nekerit Team
-Formo parte de **Nekerit Team**, un equipo de desarrolladores multidisciplinario donde trabajamos con:
-- 💻 **Programadores** especializados en diferentes tecnologías
-- 🎨 **Diseñadores** UI/UX creativos
-- 🤖 **Discord Developers** para bots y aplicaciones
-- 🌐 **Desarrolladores Web** full-stack
-
-🔗 **¡Descubre nuestros proyectos!** Visita nuestra organización: [Nekerit Team](https://github.com/Nekerit-Team)
-
 ## 🤝 Conecta conmigo
 
 <div align="center">
@@ -75,15 +39,6 @@ Formo parte de **Nekerit Team**, un equipo de desarrolladores multidisciplinario
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@soyhugo.es)
 
 </div>
-
-## 💝 Apoya mi trabajo
-
-Si te gusta lo que hago y quieres apoyar mi trabajo, considera:
-
-- ⭐ Dar estrella a mis repositorios
-- 🍴 Hacer fork de proyectos interesantes
-- 💬 Dejar comentarios constructivos
-- 🤝 Colaborar en proyectos open source
 
 <!-- 
 <div align="center">
