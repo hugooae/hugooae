@@ -31,10 +31,10 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://soyhugo.es)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hugooae)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hugoo_ae)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hugoo.ae)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@hugooae)
-[![TikTok](https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@hugooae)
+[![TikTok](https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@hugoo.ae)
 [![Threads](https://img.shields.io/badge/-Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://threads.net/@hugoo.ae)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@soyhugo.es)
 
