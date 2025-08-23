@@ -1,14 +1,23 @@
+<div align="center">
+
 # 👋 ¡Hola! Soy Hugo
+
 
 [![Profile Views](https://komarev.com/ghpvc/?username=hugooae&color=blue&style=flat-square)](https://github.com/hugooae)
 [![GitHub followers](https://img.shields.io/github/followers/hugooae?style=flat-square&color=blue)](https://github.com/hugooae?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/hugooae?style=flat-square&color=yellow)](https://github.com/hugooae)
 
+
+
 ## 🚀 Sobre mí
 
 ¡Bienvenido a mi perfil! Soy un desarrollador apasionado por la tecnología y la innovación. Me encanta crear soluciones elegantes a problemas complejos y estar siempre aprendiendo nuevas tecnologías.
 
+</div>
+
 ## 🛠️ Tecnologías y Herramientas
+
+<div align="center">
 
 ### Lenguajes de Programación
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -25,6 +34,8 @@
 ### Herramientas y Tecnologías
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+</div>
 
 ## 🤝 Conecta conmigo
 
@@ -49,9 +60,3 @@
 -->
 
 ---
-
-<div align="center">
-
-⭐️ De [hugooae](https://github.com/hugooae)
-
-</div>
